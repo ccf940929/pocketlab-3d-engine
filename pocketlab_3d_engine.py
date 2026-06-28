@@ -299,4 +299,4 @@ def pocketlab_3d_engine_master_v18(image_path, mode='3d', marker_real_size_mm=50
 
 if __name__ == "__main__":
     # 將檔名改回妳那張直立的測試照，再跑一次看看！
-    pocketlab_3d_engine_master_v18('1.jpg', mode='2d', marker_real_size_mm=50.0)
+    pocketlab_3d_engine_master_v18('3.jpg', mode='2d', marker_real_size_mm=50.0)
